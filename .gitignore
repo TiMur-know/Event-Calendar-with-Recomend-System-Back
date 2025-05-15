@@ -1,0 +1,9 @@
+*.env
+*.db
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+*$py.class
+*.keras
+report.html
