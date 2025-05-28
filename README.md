@@ -49,4 +49,6 @@ flask run
 
 ## License
 
-MIT
+MIT License
+
+Copyright (c) 2025 TiMur-know
